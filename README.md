@@ -1,4 +1,1 @@
-cocos2dx-sudoku
-===============
-
-a sudoku game using cocos2dx
+**TestThis is based on cocos2dx!
